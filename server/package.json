@@ -1,5 +1,5 @@
 {
-  "name": "Shema Server",
+  "name": "mern-ecommerce-main",
   "version": "1.0.0",
   "description": "Test Server for SHEMA",
   "proxy": "http://localhost:3000/1 ",
